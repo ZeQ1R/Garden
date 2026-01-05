@@ -86,7 +86,7 @@ const Philosophy = () => {
               {/* Main Image */}
               <div className="rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80" 
+                  src="https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&q=80" 
                   alt="GARDEN Interior"
                   className="w-full h-[500px] object-cover"
                 />
