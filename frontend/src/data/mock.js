@@ -112,21 +112,21 @@ export const locations = [
     city: 'New York',
     address: '234 Madison Avenue, Manhattan',
     hours: 'Mon-Sun: 7:00 AM - 9:00 PM',
-    image: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=600&q=80',
   },
   {
     id: 2,
     city: 'Los Angeles',
     address: '567 Melrose Avenue, West Hollywood',
     hours: 'Mon-Sun: 7:00 AM - 10:00 PM',
-    image: 'https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=600&q=80',
   },
   {
     id: 3,
     city: 'Miami',
     address: '890 Ocean Drive, South Beach',
     hours: 'Mon-Sun: 8:00 AM - 11:00 PM',
-    image: 'https://images.unsplash.com/photo-1559329007-40df8a9345d8?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80',
   },
 ];
 
