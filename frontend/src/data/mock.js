@@ -152,10 +152,10 @@ export const testimonials = [
 ];
 
 export const socialImages = [
-  'https://images.unsplash.com/photo-1622597467836-f3e6707a3ee3?w=400&q=80',
+  'https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?w=400&q=80',
   'https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&q=80',
   'https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=400&q=80',
-  'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=400&q=80',
+  'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80',
   'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&q=80',
-  'https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=400&q=80',
+  'https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400&q=80',
 ];
