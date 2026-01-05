@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ArrowRight, Play, Leaf } from 'lucide-react';
 import { Button } from './ui/button';
+import { heroImage } from '../data/mock';
 
 const Hero = () => {
   const [loaded, setLoaded] = useState(false);
