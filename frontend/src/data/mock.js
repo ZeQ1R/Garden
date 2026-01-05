@@ -9,12 +9,14 @@ export const navLinks = [
   { label: 'Contact', href: '#contact' },
 ];
 
+export const heroImage = 'https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=800&q=80';
+
 export const menuHighlights = [
   {
     id: 1,
     title: 'Fresh Cold-Pressed Juices',
     description: 'Pure, unprocessed juices bursting with vitamins and natural flavors.',
-    image: 'https://images.unsplash.com/photo-1622597467836-f3e6707a3ee3?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1589733955941-5eeaf752f6dd?w=600&q=80',
   },
   {
     id: 2,
@@ -26,7 +28,7 @@ export const menuHighlights = [
     id: 3,
     title: 'Healthy Bowls & Breakfasts',
     description: 'Nourishing bowls packed with superfoods and fresh produce.',
-    image: 'https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=80',
+    image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80',
   },
   {
     id: 4,
