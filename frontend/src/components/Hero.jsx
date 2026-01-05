@@ -99,7 +99,7 @@ const Hero = () => {
             <div className="relative z-10">
               <div className="relative rounded-3xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1622597467836-f3e6707a3ee3?w=800&q=80" 
+                  src={heroImage}
                   alt="Fresh Juice"
                   className="w-full h-[500px] lg:h-[600px] object-cover"
                 />
